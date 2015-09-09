@@ -1,0 +1,26 @@
+{
+	"writings": {
+		"featured": {
+			"title": "Some story",
+			"link": "http://cnn.com",
+			"description": "Some description"			
+		},
+		"more": [
+			{
+				"title": "Some story2",
+				"link": "http://cnn.com",
+				"description": "Some description2"
+			},
+			{
+				"title": "Some story3",
+				"link": "http://cnn.com",
+				"description": "Some description2"
+			},
+			{
+				"title": "Some story4",
+				"link": "http://cnn.com",
+				"description": "Some description2"
+			}						
+		]
+	}
+}
