@@ -235,6 +235,8 @@
     }
 }
 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700,800); 
+
 // Custome styles
 .social-media-list {
     img{
@@ -248,25 +250,69 @@
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
-    text-align: center;
+    text-align: left;
     color: white;
     padding-top: 110px;
-    font-family: "theano_didotregular", sans-serif;
+    font-family: "Open Sans", sans-serif;
+    line-height: 60px;
+
+    h1 {
+        text-shadow: 1px 1px 2px #000;
+        position: absolute;
+        bottom: 0px;
+    }
+    .wrapper {
+        position: relative;
+        height: 100%;        
+    }
 }
 
 h1 {
     font-size: 50px;
 }
-
-@font-face {
-    font-family: 'theano_didotregular';
-    src: url('../css/fonts/theanodidot-regular-webfont.eot');
-    src: url('../css/fonts/theanodidot-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../css/fonts/theanodidot-regular-webfont.woff2') format('woff2'),
-         url('../css/fonts/theanodidot-regular-webfont.woff') format('woff'),
-         url('../css/fonts/theanodidot-regular-webfont.ttf') format('truetype'),
-         url('../css/fonts/theanodidot-regular-webfont.svg#theano_didotregular') format('svg');
+@font-face{
+    font-family: 'BaskervilleBold';
+    src: url('../css/fonts/Baskerville-Bold.eot');
+    src: url('../css/fonts/Baskerville-Bold.eot?#iefix') format('embedded-opentype'), url('../css/fonts/Baskerville-Bold.woff') format('woff'), url('../css/fonts/Baskerville-Bold.ttf') format('truetype'), url('../css/fonts/Baskerville-Bold.svg#baskerville') format('svg');
     font-weight: normal;
     font-style: normal;
+}
+@font-face{
+    font-family: 'BaskervilleSemiBold';
+    src: url('../css/fonts/Baskerville-SemiBold.eot');
+    src: url('../css/fonts/Baskerville-SemiBold.eot?#iefix') format('embedded-opentype'), url('../css/fonts/Baskerville-SemiBold.woff') format('woff'), url('../css/fonts/Baskerville-SemiBold.ttf') format('truetype'), url('../css/fonts/Baskerville-SemiBold.svg#baskerville') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'BaskervilleItalic';
+    src: url('../css/fonts/Baskerville-Italic.eot');
+    src: url('../css/fonts/Baskerville-Italic.eot?#iefix') format('embedded-opentype'), url('../css/fonts/Baskerville-Italic.woff') format('woff'), url('../css/fonts/Baskerville-Italic.ttf') format('truetype'), url('../css/fonts/Baskerville-Italic.svg#baskerville') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'Baskerville';
+    src: url('../css/fonts/Baskerville.eot');
+    src: url('../css/fonts/Baskerville.eot?#iefix') format('embedded-opentype'), url('../css/fonts/Baskerville.woff') format('woff'), url('../css/fonts/Baskerville.ttf') format('truetype'), url('../css/fonts/Baskerville.svg#baskerville') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+#intro {
+    padding-top: 20px;
+    img {
+        float: left;
+        width: 45%;
+        padding-right: 2%;
+    }
+    #intro-text{
+        border-left: 1px solid #999;
+        float: left;
+        width: 50%;
+        padding-left: 2%;
+    }
+}
 
+.home .page-content {
+    padding: 0px 0px $spacing-unit 0px;
 }
