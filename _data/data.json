@@ -1,25 +1,35 @@
 {
 	"writings": {
 		"featured": {
-			"title": "Some story",
-			"link": "http://cnn.com",
-			"description": "Some description"			
+			"title": "The Unexpected Lives We're Living",
+			"link": "http://www.cnn.com/interactive/2014/12/ireport/unexpected-lives/",
+			"description": "More than 10.2 million American children have special health care needs, and in the past decade studies have shown that number is on the rise. Through CNN iReport, the network's global participatory platform, Imam was able to crowdsource firsthand accounts from families raising children with special needs and produce a digital piece for CNN Digital."			
 		},
 		"more": [
 			{
-				"title": "Some story2",
-				"link": "http://cnn.com",
-				"description": "Some description2"
+				"title": "NOAA predicts calm 2015 hurricane season for U.S.",
+				"link": "http://www.cnn.com/2015/08/06/us/2015-hurricane-season/index.html",
+				"description": "There is a 90% chance of a below-normal hurricane season and a lower chance of expected storm activity, according to the National Oceanic and Atmospheric Administration Climate Prediction Center, which has updated its 2015 Atlantic Hurricane Season Outlook."
 			},
 			{
-				"title": "Some story3",
-				"link": "http://cnn.com",
-				"description": "Some description2"
+				"title": "Washington, D.C. has a 'forebulge' problem",
+				"link": "http://www.cnn.com/2015/07/30/us/washington-dc-sinking-irpt/index.html",
+				"description": "Scientists predict that the land underneath the nation's capital will drop more than 6 inches in the next 100 years, according to new research from the University of Vermont and the U.S. Geological Survey (USGS)."
 			},
 			{
-				"title": "Some story4",
-				"link": "http://cnn.com",
-				"description": "Some description2"
+				"title": "Armadillos cause spike in leprosy cases in Florida",
+				"link": "http://www.cnn.com/2015/07/21/health/florida-leprosy-cases-armadillos-irpt/index.html",
+				"description": "There are an unusually high number of leprosy cases cropping up in Florida. Experts said they believe the spike is because of people coming into contact with armadillos."
+			},
+			{
+				"title": "NASA renews contract with Russia",
+				"link": "http://www.cnn.com/2015/08/05/us/nasa-contract-russia/index.html",
+				"description": "NASA renews its contract with the Russian Federal Space Agency. The contract was renewed because of lack of congressional funding to the Commercial Crew Program."
+			},
+			{
+				"title": "South Carolina officer shoots unarmed white teen during pot bust",
+				"link": "http://www.cnn.com/2015/08/06/us/seneca-teen-dead-police-shooting/index.html",
+				"description": "Zachary Hammond was fatally shot during a drug sting outside a North Carolina fast-food restaurant on July 26, 2015. Imam conducted in-depth investigative reporting and interviewing, and was able to put together a story for CNN that broken down the circumstances that lead to the teenager's death."
 			}						
 		]
 	}

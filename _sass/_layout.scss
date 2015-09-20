@@ -244,8 +244,16 @@
         margin-top: 7px;
     }
 }
-.hero-unit {
+
+.home .hero-unit{
     background-image: url(../img/banner-photo.jpg);
+}
+
+.about .hero-unit{
+    background-image: url(../img/about-photo.jpg);
+}
+
+.hero-unit {
     height: 250px;
     background-repeat: no-repeat;
     background-position: center top;
@@ -318,4 +326,14 @@ h1 {
 
 .home .page-content {
     padding: 0px 0px $spacing-unit 0px;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+ul.social-media-list {
+    li {
+        display: inline;
+    }
 }
