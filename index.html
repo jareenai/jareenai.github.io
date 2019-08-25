@@ -25,16 +25,31 @@ In 2019, Imam was selected as one of Take the Lead's "50 women who can change th
     </section>
 
     <section>
-      <h2>Featured</h2>
+      <h2>Featured works</h2>
+      <h3><a href='{{ site.data.data.writings.featured.link }}' target='_blank'>{{ site.data.data.writings.featured.title }}</a></h3>
+      <p>
+        {{ site.data.data.writings.featured.description }}
+      </p>
+    </section>
+  
+      <section>
+      <h2>Press coverage</h2>
+      <h3><a href='{{ site.data.data.writings.featured.link }}' target='_blank'>{{ site.data.data.writings.featured.title }}</a></h3>
+      <p>
+        {{ site.data.data.writings.featured.description }}
+      </p>
+    </section>
+  
+      <section>
+      <h2>Talks</h2>
       <h3><a href='{{ site.data.data.writings.featured.link }}' target='_blank'>{{ site.data.data.writings.featured.title }}</a></h3>
       <p>
         {{ site.data.data.writings.featured.description }}
       </p>
     </section>
 
-
     <section>
-      <h2>More Stories</h2>
+      <h2>Additional reporting</h2>
       {% for writing in site.data.data.writings.more %}
         <h3><a href='{{writing.link}}' target='_blank'>{{writing.title}}</a></h3>
         <p>
