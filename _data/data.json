@@ -32,5 +32,34 @@
 				"description": "Zachary Hammond was fatally shot during a drug sting outside a North Carolina fast-food restaurant on July 26, 2015. Imam conducted in-depth investigative reporting and interviewing, and was able to put together a story for CNN that broke down the circumstances that led to the teenager's death."
 			}						
 		]
+	},
+	"press coverage": {
+		"featured": {
+			"title": "How journalists can take care of themselves while covering",
+			"link": "https://www.poynter.org/reporting-editing/2019/how-journalists-can-take-care-of-themselves-while-covering-trauma/",
+			"description": "Journalists can't properly cover trauma if they're suffering themselves. Jareen was interviewed for this article after her coverage of the Capital Gazette shooting in 2018 lead to online threats and harassment."			
+		},
+		"more": [
+			{
+				"title": "Gwen Ifill Fellows",
+				"link": "https://www.iwmf.org/gwen-ifill-fellows/",
+				"description": "Jareen was selected into the prestigious Gwen Ifill fellowship, which focuses creating more diversity in the journalism industry."
+			},
+			{
+				"title": "The Biggest Facebook Publishers of January 2016",
+				"link": "https://www.newswhip.com/2016/02/biggest-facebook-publishers-january-2016/",
+				"description": "During the 2016 election season, Jareen's social media team at CBS News received press coverage for its growth in social video engagement on Facebook."
+			},
+			{
+				"title": "2019 Online Journalism Awards finalists announced",
+				"link": "https://www.globenewswire.com/news-release/2019/08/13/1901410/0/en/2019-Online-Journalism-Awards-finalists-announced.html",
+				"description": "Jareen was one of the judges who reviewed finalist entries for the 2019 Online Journalism Awards."
+			},
+			{
+				"title": "Poynter selects participants for two new leadership academies for women in digital media",
+				"link": "https://www.poynter.org/news-release/2018/poynter-selects-participants-for-two-new-leadership-academies-for-women-in-digital-media/",
+				"description": "More than 600 women applied to the 2018 Leadership Academy for Women in Digital Media that occurred in March at Poynter. In response to the record number of applicants, Poynter created two more academies, and Jareen was selected as a cohort member." 
+			},						
+		]
 	}
 }
